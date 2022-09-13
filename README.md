@@ -1,3 +1,3 @@
-# Hima
+# course
 
 #2project Notes
